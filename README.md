@@ -5,7 +5,9 @@ Forked from [Max Sandelin](https://instagram.com/themaxsandelin).
 
 This one features a "percent of the day elapsed" progress notice at the top right of the header bar.
 
-(Mockup.png)
+## Preview
+
+[Preview](Mockup.png)
 
 ## License
-[MIT](LICENSE.md) 2017
+[MIT 2017](LICENSE.md) 

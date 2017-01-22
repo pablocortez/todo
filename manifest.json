@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+
+  "name": "My Todo App",
+  "description": "This extension creates a to do list on the new tab page.",
+  "version": "1.0",
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ],
+  "chrome_url_overrides":{
+    "newtab": "index.html"
+  }
+}

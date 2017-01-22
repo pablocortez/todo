@@ -7,7 +7,7 @@ This one features a "percent of the day elapsed" progress notice at the top righ
 
 ## Preview
 
-[Preview](Mockup.png)
+![Preview](Mockup.png)
 
 ## License
-[MIT 2017](LICENSE.md) 
+[MIT 2017](LICENSE.md)

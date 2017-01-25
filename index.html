@@ -23,7 +23,20 @@
 
 		<div class="container">
 			<!-- Uncompleted tasks -->
-			<ul class="todo" id="todo"></ul>
+			<ul class="todo" id="todo">
+				<li>Item todo <span class="date-created">
+				<script>
+				var d = new Date();
+				// date = d.getMonth() + ' / ' + d.getDay();
+				// document.write(date);
+				var mm = d.getMonth() + 1;
+				var dd = d.getDate();
+
+
+				document.write('— ' + mm + '/' + dd);
+
+				</script></span></li>
+			</ul>
 
 			<!-- Completed tasks -->
 			<ul class="todo" id="completed"></ul>

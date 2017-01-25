@@ -228,6 +228,11 @@ ul.todo li .buttons button.complete svg .fill {
   fill: #3782c8;
 }
 
+.date-created {
+  color: gray;
+  font-size: 10px;
+}
+
 ul.todo#completed {
   position: relative;
   padding: 60px 0 0 0;
